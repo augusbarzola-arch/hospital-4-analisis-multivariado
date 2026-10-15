@@ -41,4 +41,15 @@ El Hospital 4 registra 18 variables cuantitativas y 10 categóricas en cada cont
 4. **El alto riesgo no es homogéneo:** contiene tres perfiles clínicos distintos según el IMC (bajo peso, IMC 18,5-30, obesidad).
 5. **La glucosa no separa riesgo:** su efecto se explica por el diagnóstico, no por la categoría de riesgo.
 
-## Estructura del repositorio
+   ## Visualizaciones
+
+![Dispersión 3D](outputs/figuras/figura03_dispersion_3d.png)
+![Gráfico radial](outputs/figuras/figura05b_radial.png)
+![Caras de Chernoff](outputs/figuras/figura13b_caras_chernoff.png)
+
+## Contacto
+
+- **Autor:** Augusto Barzola
+- **GitHub:** [@augusbarzola-arch](https://github.com/augusbarzola-arch)
+- **LinkedIn:** [tu perfil](https://linkedin.com/in/tu-perfil)
+- **Email:** augus.barzola@gmail.com
