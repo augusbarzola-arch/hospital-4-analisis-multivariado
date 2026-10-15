@@ -1,0 +1,5 @@
+"perfil","n","trigliceridos","colesterol","frecuencia_cardiaca","creatinina","imc_derivado"
+"bajo_riesgo",6319,155.12,190.03,74.99,1.1,24
+"alto_bajo_peso",2215,204.35,214.97,79.52,1.43,16.26
+"alto_imc_18_30",1876,203.22,215.95,94.88,1.43,23.93
+"alto_obesidad",2921,285.74,259.55,79.51,1.44,34.32
